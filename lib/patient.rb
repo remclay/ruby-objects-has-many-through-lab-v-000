@@ -11,4 +11,6 @@ class Patient
     @appointments << appointment
     appointment.patient = self
 
+  end
+
 end
